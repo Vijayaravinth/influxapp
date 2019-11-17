@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Influx App</string>
+    <string name="normal">SMALL</string>
+    <string name="regular">MEDIUM</string>
+    <string name="large">LARGE</string>
+    <string name="pay">PAY</string>
+    <string name="summaryTitle">F&amp;B SUMMARY</string>
+</resources>
